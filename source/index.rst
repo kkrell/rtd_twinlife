@@ -15,6 +15,7 @@ Table of Content
 
 .. toctree::
    :maxdepth: 3
+
    :caption: Contents:
    About TwinLife/index
    Survey design/index
