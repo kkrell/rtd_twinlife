@@ -6,12 +6,15 @@ Survey Design
 .. _Conception:
 
 .. toctree::
-	Nuclear Twin Family Design (NTFD)
-	Sampling procedure
-	Sample structure
+   :maxdepth: 3
+
+   :caption: Contents:
+   Nuclear Twin Family Design
+   Sampling procedure
+   Sample structure
 
 
-.. _Interview design
+.. _Interview design:
 	
 Interview design
 ================

@@ -3,7 +3,7 @@
 Conception of the study
 =======================
 
-.. _NTFD:
+.. _Nuclear Twin Family Design:
 
 Nuclear Twin Family Design (NTFD)
 ---------------------------------
@@ -11,7 +11,7 @@ Nuclear Twin Family Design (NTFD)
 Text text text
 
 
-.. _Sampling procedure
+.. _Sampling procedure:
 	
 Sampling procedure
 ------------------
