@@ -19,6 +19,10 @@ Table of Content
    :caption: Contents:
    About TwinLife/index
    Survey design/index
+   Documentation/index
    Data structure/index
+   Generated variables and scales/index
+   Weighting/index
+   Check routines/index
 
 

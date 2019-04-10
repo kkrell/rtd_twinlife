@@ -5,8 +5,8 @@ About TwinLife
 
 .. _Target:
 
-Target of the study
-===================
+Idea & Target of TwinLife
+=========================
 
 Text text text
 
@@ -15,11 +15,5 @@ Text text text
 Contents of the study
 =====================
 
-Text Text Text
+Text Text Text; Areas of inequality etc.
 
-.. _Sample:
-
-Sample design
-=============
-
-Text Text Text

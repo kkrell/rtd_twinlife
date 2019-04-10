@@ -3,20 +3,28 @@
 Survey Design
 **************
 
-.. _ETFD:
+.. _Conception:
 
-Extended Twin Family Design
-===========================
+.. toctree::
+	Nuclear Twin Family Design (NTFD)
+	Sampling procedure
+	Sample structure
+
+
+.. _Interview design
+	
+Interview design
+================
 
 Text text text
 
-.. _Modes:
 
+.. _Panel care:
 
-Survey modes
-============
+Panel care
+==========
 
 Text Text Text
 
-.. _Missings:
+
 
