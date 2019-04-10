@@ -1,4 +1,4 @@
-.. _Survey design:
+
 
 Survey Design
 **************
@@ -12,7 +12,6 @@ Survey Design
    Sample structure
 
 
-.. _Interview design:
 	
 Interview design
 ================
@@ -20,7 +19,7 @@ Interview design
 Text text text
 
 
-.. _Panel care:
+
 
 Panel care
 ==========
