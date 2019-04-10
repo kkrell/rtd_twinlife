@@ -6,9 +6,7 @@ Survey Design
 .. _Conception:
 
 .. toctree::
-   :maxdepth: 3
 
-   :caption: Contents:
    Nuclear Twin Family Design
    Sampling procedure
    Sample structure
