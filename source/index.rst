@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 
-Welcome to TwinLife's documentation!
+Welcome to the documentation of TwinLife!
 ================================================
 
 Testtext
