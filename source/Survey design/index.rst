@@ -10,14 +10,31 @@ Survey Design
 
 .. _Conception:
 
-Conception
-==========
+Conception of the study
+=======================
 
-.. toctree::
+.. _Nuclear Twin Family Design:
 
-   Nuclear Twin Family Design
-   Sampling procedure
-   Sample structure
+Nuclear Twin Family Design (NTFD)
+---------------------------------
+
+Text text text
+
+
+.. _Sampling procedure:
+	
+Sampling procedure
+------------------
+
+Text text text
+
+
+.. _Sample structure:
+
+Sample structure
+----------------
+
+Text Text Text
 
 .. _Interview design:
 	
