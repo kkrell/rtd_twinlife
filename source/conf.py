@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'readthedocs_twinlife'
+project = 'TwinLife documentation'
 copyright = '2019, TwinLife'
 author = 'TwinLife'
 
