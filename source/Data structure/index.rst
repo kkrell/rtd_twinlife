@@ -8,14 +8,48 @@ Data Structure
 Structure of the data dissemination
 ===================================
 
-Text text text; structure of data files etc.
+.. _Formats:
 
-.. _Variablestructure:
+Data formats
+------------
+
+Text text text
+
+.. _Data files:
+
+Data files
+----------
+
+Text text text
+
+
+
+.. _Variable structure:
 
 Structure of the variable names
 ===============================
 
 Text Text Text
+
+
+
+.. _Identifiers:
+
+Identifiers
+===========
+
+Text text text
+
+
+
+.. _Wave variables
+
+Wave variables
+==============
+
+Text text text
+
+
 
 .. _Missings:
 
